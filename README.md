@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wanchengtian51
+- 👀 I’m interested in Data science. 
+- 🌱 I’m currently learning Python and pandas.
+- 💞️ Excited about analyzing data and deriving meaningful insights.
